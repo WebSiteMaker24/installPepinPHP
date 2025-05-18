@@ -61,7 +61,8 @@ Compilation (Windows) :
   gcc installPepinPHP.c -o installPepinPHP.exe
 
 Prérequis :
-  - MinGW installé (ou TDM-GCC)
-  - Le dossier "bin" de GCC dans le PATH
-  - Le fichier .exe pourra ensuite être lancé par double-clic
+- MinGW installé (ou TDM-GCC)
+- Le dossier "bin" de GCC dans le PATH
+- MySQL ou MariaDB installé et en cours d’exécution (ex: via MAMP, XAMPP, ou service local)
+- Le fichier .exe pourra ensuite être lancé par double-clic
 */
