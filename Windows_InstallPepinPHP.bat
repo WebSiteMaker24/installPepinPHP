@@ -1,7 +1,7 @@
 @echo off
 cd %USERPROFILE%\Desktop
 git clone https://github.com/WebSiteMaker24/PepinPHPv4.git
-cd PepinPHP/core
+cd PepinPHP
 
 REM Crée .env à partir de env.txt s’il existe
 if exist env.txt (
